@@ -5,14 +5,14 @@ window.currentSort = { key: 'points', dir: 'desc' };
 window.currentSearch = '';
 
 // Load data and initialize
-fetch('scores.json')
+fetch('newscores.json')
     .then(res => res.json())
     .then(data => {
         window.scores = data;
         window.mainList = buildPlayerTotals(data);
         renderMainPageTable(window.mainList);
     })
-    .catch(err => console.error('Failed to load scores.json', err));
+    .catch(err => console.error('Failed to load newscores.json', err));
 
 // Build aggregated totals per player. counts seasons where did_not_play === 0
 function buildPlayerTotals(data) {
@@ -81,6 +81,11 @@ function sortMain(key) {
     renderMainPageTable(filtered);
 }
 
+function formatSeason(year){
+    return `${year}-${year + 1}`;
+} 
+
+
 function searchPlayer(text) {
     window.currentSearch = text.toLowerCase(); // update global search
     const filtered = applySearchFilter(window.mainList, window.currentSearch);
@@ -106,6 +111,7 @@ function renderMainPageTable(data) {
         <table class="min-w-full table-auto">
           <thead class="bg-gray-100">
             <tr>
+             <th class="px-2 sm:px-4 py-2 text-left">#</th>
               <th class="px-2 sm:px-4 py-2 text-left cursor-pointer" onclick="sortMain('playername')">Player ${sortIndicator('playername')}</th>
               <th class="px-2 sm:px-4 py-2 text-right cursor-pointer" onclick="sortMain('goals')">Goals${sortIndicator('goals')}</th>
               <th class="px-2 sm:px-4 py-2 text-right cursor-pointer" onclick="sortMain('assists')">Assists ${sortIndicator('assists')}</th>
@@ -117,8 +123,9 @@ function renderMainPageTable(data) {
           <tbody id="main-table-body">
   `;
 
-    const rows = data.map(p => `
+    const rows = data.map((p,index) => `
             <tr class="hover:bg-gray-50 border-b">
+                <td class="px-2 sm:px-4 py-3">${index + 1}</td> 
               <td class="px-2 sm:px-4 py-3">${escapeHtml(p.playername)}</td>
               <td class="px-2 sm:px-4 py-3 text-right">${p.goals}</td>
               <td class="px-2 sm:px-4 py-3 text-right">${p.assists}</td>
@@ -175,10 +182,11 @@ function renderTopSeasonsTable(seasons) {
     const container = document.getElementById('main-table');
     if (!container) return;
 
-    const rows = seasons.map(p => `
+    const rows = seasons.map((p, index) => `
         <tr class="hover:bg-gray-50 border-b">
+            <td class="px-4 py-3">${index+1}</td>
             <td class="px-4 py-3">${escapeHtml(p.playername)}</td>
-            <td class="px-4 py-3 text-right">${p.year}</td>
+            <td class="px-4 py-3 text-right">${formatSeason(p.year)}</td>
             <td class="px-4 py-3 text-right">${p.goals}</td>
             <td class="px-4 py-3 text-right">${p.assists}</td>
             <td class="px-4 py-3 text-right font-semibold">${p.points || (p.goals + p.assists)}</td>
@@ -187,11 +195,12 @@ function renderTopSeasonsTable(seasons) {
 
     container.innerHTML = `
         <div class="bg-white shadow rounded-lg p-6">
-            <h1 class="text-2xl font-bold mb-2">Top ${seasons.length} Individual Seasons</h1>
+            <h1 class="text-2xl font-bold mb-2">Top 10 Individual Seasons</h1>
             <div class="overflow-x-auto px-2 sm:px-0">
                 <table class="min-w-full table-auto">
                     <thead class="bg-gray-100">
                         <tr>
+                            <th class="px-4 py-2 text-left">#</th>
                             <th class="px-4 py-2 text-left">Player</th>
                             <th class="px-4 py-2 text-right">Season</th>
                             <th class="px-4 py-2 text-right">Goals</th>

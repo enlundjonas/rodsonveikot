@@ -1,0 +1,1730 @@
+[
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2015",
+    "goals": "14",
+    "assists": "16",
+    "points": "30"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2016",
+    "goals": "11",
+    "assists": "11",
+    "points": "22"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2017",
+    "goals": "7",
+    "assists": "12",
+    "points": "19"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2018",
+    "goals": "6",
+    "assists": "5",
+    "points": "11"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2019",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2020",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2021",
+    "goals": "6",
+    "assists": "9",
+    "points": "15"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2022",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2023",
+    "goals": "5",
+    "assists": "11",
+    "points": "16"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2024",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "playername": "Axel Pelander",
+    "player_id": "1",
+    "season": "2025",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2015",
+    "goals": "17",
+    "assists": "9",
+    "points": "26"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2016",
+    "goals": "13",
+    "assists": "8",
+    "points": "21"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2017",
+    "goals": "16",
+    "assists": "2",
+    "points": "18"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2018",
+    "goals": "7",
+    "assists": "9",
+    "points": "16"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2019",
+    "goals": "25",
+    "assists": "12",
+    "points": "37"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2020",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2021",
+    "goals": "15",
+    "assists": "12",
+    "points": "27"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2022",
+    "goals": "11",
+    "assists": "14",
+    "points": "25"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2023",
+    "goals": "19",
+    "assists": "11",
+    "points": "30"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2024",
+    "goals": "7",
+    "assists": "8",
+    "points": "15"
+  },
+  {
+    "playername": "Jonas Enlund",
+    "player_id": "2",
+    "season": "2025",
+    "goals": "4",
+    "assists": "10",
+    "points": "14"
+  },
+  {
+    "playername": "Samuel Hjulfors",
+    "player_id": "3",
+    "season": "2015",
+    "goals": "15",
+    "assists": "1",
+    "points": "16"
+  },
+  {
+    "playername": "Samuel Hjulfors",
+    "player_id": "3",
+    "season": "2016",
+    "goals": "8",
+    "assists": "8",
+    "points": "16"
+  },
+  {
+    "playername": "Samuel Hjulfors",
+    "player_id": "3",
+    "season": "2017",
+    "goals": "7",
+    "assists": "3",
+    "points": "10"
+  },
+  {
+    "playername": "Samuel Hjulfors",
+    "player_id": "3",
+    "season": "2020",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Samuel Hjulfors",
+    "player_id": "3",
+    "season": "2022",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2015",
+    "goals": "10",
+    "assists": "5",
+    "points": "15"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2016",
+    "goals": "8",
+    "assists": "9",
+    "points": "17"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2017",
+    "goals": "9",
+    "assists": "10",
+    "points": "19"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2018",
+    "goals": "11",
+    "assists": "9",
+    "points": "20"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2019",
+    "goals": "19",
+    "assists": "14",
+    "points": "33"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2020",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2021",
+    "goals": "19",
+    "assists": "13",
+    "points": "32"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2022",
+    "goals": "16",
+    "assists": "8",
+    "points": "24"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2023",
+    "goals": "9",
+    "assists": "20",
+    "points": "29"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2024",
+    "goals": "4",
+    "assists": "16",
+    "points": "20"
+  },
+  {
+    "playername": "Christian Hagn�s",
+    "player_id": "4",
+    "season": "2025",
+    "goals": "7",
+    "assists": "11",
+    "points": "18"
+  },
+  {
+    "playername": "Olli Annala",
+    "player_id": "5",
+    "season": "2015",
+    "goals": "8",
+    "assists": "7",
+    "points": "15"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2015",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2016",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2017",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2018",
+    "goals": "4",
+    "assists": "0",
+    "points": "4"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2019",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2020",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "playername": "Viktor Sweins",
+    "player_id": "6",
+    "season": "2021",
+    "goals": "7",
+    "assists": "8",
+    "points": "15"
+  },
+  {
+    "playername": "Niklas Wargh",
+    "player_id": "7",
+    "season": "2015",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "playername": "Niklas Wargh",
+    "player_id": "7",
+    "season": "2016",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Jacob Sundberg",
+    "player_id": "8",
+    "season": "2015",
+    "goals": "6",
+    "assists": "3",
+    "points": "9"
+  },
+  {
+    "playername": "Jacob Sundberg",
+    "player_id": "8",
+    "season": "2016",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Alexander Wargh",
+    "player_id": "9",
+    "season": "2015",
+    "goals": "5",
+    "assists": "4",
+    "points": "9"
+  },
+  {
+    "playername": "Martin Nybacka",
+    "player_id": "10",
+    "season": "2015",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "playername": "Martin Nybacka",
+    "player_id": "10",
+    "season": "2025",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Ville Lindholm",
+    "player_id": "11",
+    "season": "2015",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "playername": "Ville Lindholm",
+    "player_id": "11",
+    "season": "2016",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2015",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2016",
+    "goals": "6",
+    "assists": "4",
+    "points": "10"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2019",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2020",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2021",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "playername": "Robin Enlund",
+    "player_id": "12",
+    "season": "2022",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Mattias Enlund",
+    "player_id": "13",
+    "season": "2015",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "playername": "Mattias Enlund",
+    "player_id": "13",
+    "season": "2019",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "playername": "Mattias Enlund",
+    "player_id": "13",
+    "season": "2020",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Jonas Haga",
+    "player_id": "14",
+    "season": "2015",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "playername": "Jonas Haga",
+    "player_id": "14",
+    "season": "2017",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "playername": "Victor Svenfelt",
+    "player_id": "15",
+    "season": "2015",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "playername": "Victor Svenfelt",
+    "player_id": "15",
+    "season": "2016",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Benjamin Wentin",
+    "player_id": "16",
+    "season": "2015",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Valter Lindholm",
+    "player_id": "17",
+    "season": "2016",
+    "goals": "8",
+    "assists": "9",
+    "points": "17"
+  },
+  {
+    "playername": "Valter Lindholm",
+    "player_id": "17",
+    "season": "2017",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "playername": "Valter Lindholm",
+    "player_id": "17",
+    "season": "2020",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "N-P L�fstr�m",
+    "player_id": "18",
+    "season": "2016",
+    "goals": "8",
+    "assists": "1",
+    "points": "9"
+  },
+  {
+    "playername": "Jimmy Svartstr�m",
+    "player_id": "19",
+    "season": "2016",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "playername": "Jimmy Svartstr�m",
+    "player_id": "19",
+    "season": "2017",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "playername": "Jimmy Svartstr�m",
+    "player_id": "19",
+    "season": "2018",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "playername": "Dennis Brandt",
+    "player_id": "20",
+    "season": "2016",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "playername": "Dennis Brandt",
+    "player_id": "20",
+    "season": "2017",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "playername": "Dennis Brandt",
+    "player_id": "20",
+    "season": "2018",
+    "goals": "11",
+    "assists": "10",
+    "points": "21"
+  },
+  {
+    "playername": "Dennis Brandt",
+    "player_id": "20",
+    "season": "2019",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "playername": "Mats Fredlund",
+    "player_id": "21",
+    "season": "2015",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Mats Fredlund",
+    "player_id": "21",
+    "season": "2016",
+    "goals": "3",
+    "assists": "0",
+    "points": "3"
+  },
+  {
+    "playername": "Mats Fredlund",
+    "player_id": "21",
+    "season": "2017",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Niclas Hjulfors",
+    "player_id": "22",
+    "season": "2016",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "playername": "Niclas Hjulfors",
+    "player_id": "22",
+    "season": "2018",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Niclas Hjulfors",
+    "player_id": "22",
+    "season": "2019",
+    "goals": "0",
+    "assists": "6",
+    "points": "6"
+  },
+  {
+    "playername": "Niclas Hjulfors",
+    "player_id": "22",
+    "season": "2025",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Paul Wiklund",
+    "player_id": "23",
+    "season": "2016",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "playername": "Fredrik Flink",
+    "player_id": "24",
+    "season": "2016",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Robrt Ylikorpi",
+    "player_id": "25",
+    "season": "2016",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Stefan Nyfelt",
+    "player_id": "26",
+    "season": "2016",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Andr� Ingman",
+    "player_id": "27",
+    "season": "2017",
+    "goals": "18",
+    "assists": "21",
+    "points": "39"
+  },
+  {
+    "playername": "Andr� Ingman",
+    "player_id": "27",
+    "season": "2018",
+    "goals": "19",
+    "assists": "14",
+    "points": "33"
+  },
+  {
+    "playername": "Andr� Ingman",
+    "player_id": "27",
+    "season": "2021",
+    "goals": "16",
+    "assists": "14",
+    "points": "30"
+  },
+  {
+    "playername": "Andr� Ingman",
+    "player_id": "27",
+    "season": "2022",
+    "goals": "13",
+    "assists": "5",
+    "points": "18"
+  },
+  {
+    "playername": "Andr� Sn�re",
+    "player_id": "28",
+    "season": "2017",
+    "goals": "10",
+    "assists": "9",
+    "points": "19"
+  },
+  {
+    "playername": "Andr� Sn�re",
+    "player_id": "28",
+    "season": "2018",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "playername": "Niklas Ceder",
+    "player_id": "29",
+    "season": "2017",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "playername": "Jacob Nybacka",
+    "player_id": "30",
+    "season": "2017",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "playername": "Jacob Nybacka",
+    "player_id": "30",
+    "season": "2018",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "playername": "Jacob Nybacka",
+    "player_id": "30",
+    "season": "2019",
+    "goals": "5",
+    "assists": "6",
+    "points": "11"
+  },
+  {
+    "playername": "Anders �svik",
+    "player_id": "31",
+    "season": "2017",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "playername": "Rasmus Sn�re",
+    "player_id": "32",
+    "season": "2017",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "playername": "Jesper Ceder",
+    "player_id": "33",
+    "season": "2017",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "playername": "Jesper Ceder",
+    "player_id": "33",
+    "season": "2018",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "playername": "Josef Bengtsson",
+    "player_id": "34",
+    "season": "2017",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "playername": "Martin Sj�blom",
+    "player_id": "35",
+    "season": "2017",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Martin Sj�blom",
+    "player_id": "35",
+    "season": "2018",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Jens Enlund",
+    "player_id": "36",
+    "season": "2017",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Jens Enlund",
+    "player_id": "36",
+    "season": "2018",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Jens Enlund",
+    "player_id": "36",
+    "season": "2019",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Joonas Virta",
+    "player_id": "37",
+    "season": "2018",
+    "goals": "20",
+    "assists": "19",
+    "points": "39"
+  },
+  {
+    "playername": "Otto V��r�",
+    "player_id": "38",
+    "season": "2018",
+    "goals": "8",
+    "assists": "3",
+    "points": "11"
+  },
+  {
+    "playername": "Albin Westerlund",
+    "player_id": "39",
+    "season": "2018",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "playername": "Sebastian R�man",
+    "player_id": "40",
+    "season": "2018",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "playername": "Joni Kuusniemi",
+    "player_id": "41",
+    "season": "2018",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2019",
+    "goals": "12",
+    "assists": "15",
+    "points": "27"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2020",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2021",
+    "goals": "6",
+    "assists": "5",
+    "points": "11"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2022",
+    "goals": "10",
+    "assists": "3",
+    "points": "13"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2023",
+    "goals": "1",
+    "assists": "8",
+    "points": "9"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2024",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Martin Prest",
+    "player_id": "42",
+    "season": "2025",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2019",
+    "goals": "6",
+    "assists": "3",
+    "points": "9"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2020",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2021",
+    "goals": "7",
+    "assists": "5",
+    "points": "12"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2022",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2023",
+    "goals": "5",
+    "assists": "4",
+    "points": "9"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2024",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "playername": "Jimmy Ahola",
+    "player_id": "43",
+    "season": "2025",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Elias Vihervaara",
+    "player_id": "44",
+    "season": "2019",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "playername": "Elias Vihervaara",
+    "player_id": "44",
+    "season": "2020",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Kevin Huld�n",
+    "player_id": "45",
+    "season": "2019",
+    "goals": "6",
+    "assists": "1",
+    "points": "7"
+  },
+  {
+    "playername": "Kevin Huld�n",
+    "player_id": "45",
+    "season": "2020",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Jesse Mikkola",
+    "player_id": "46",
+    "season": "2020",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Markus S�llinen",
+    "player_id": "47",
+    "season": "2020",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2020",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2021",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2022",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2023",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2024",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Mikael Bergdahl",
+    "player_id": "48",
+    "season": "2025",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Urho Koljonen",
+    "player_id": "49",
+    "season": "2021",
+    "goals": "10",
+    "assists": "15",
+    "points": "25"
+  },
+  {
+    "playername": "Urho Koljonen",
+    "player_id": "49",
+    "season": "2022",
+    "goals": "5",
+    "assists": "9",
+    "points": "14"
+  },
+  {
+    "playername": "Urho Koljonen",
+    "player_id": "49",
+    "season": "2023",
+    "goals": "4",
+    "assists": "10",
+    "points": "14"
+  },
+  {
+    "playername": "Urho Koljonen",
+    "player_id": "49",
+    "season": "2024",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "playername": "Veeti Venetjoki",
+    "player_id": "50",
+    "season": "2021",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "V�in� Venetjoki",
+    "player_id": "51",
+    "season": "2021",
+    "goals": "17",
+    "assists": "9",
+    "points": "26"
+  },
+  {
+    "playername": "V�in� Venetjoki",
+    "player_id": "51",
+    "season": "2022",
+    "goals": "34",
+    "assists": "12",
+    "points": "46"
+  },
+  {
+    "playername": "V�in� Venetjoki",
+    "player_id": "51",
+    "season": "2023",
+    "goals": "37",
+    "assists": "16",
+    "points": "53"
+  },
+  {
+    "playername": "V�in� Venetjoki",
+    "player_id": "51",
+    "season": "2024",
+    "goals": "20",
+    "assists": "10",
+    "points": "30"
+  },
+  {
+    "playername": "Robert Biskop",
+    "player_id": "52",
+    "season": "2021",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "playername": "Ville K�ns�l�",
+    "player_id": "53",
+    "season": "2021",
+    "goals": "12",
+    "assists": "7",
+    "points": "19"
+  },
+  {
+    "playername": "Ville K�ns�l�",
+    "player_id": "53",
+    "season": "2022",
+    "goals": "5",
+    "assists": "9",
+    "points": "14"
+  },
+  {
+    "playername": "Tuomas Saarela",
+    "player_id": "54",
+    "season": "2022",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "playername": "Tuomas Saarela",
+    "player_id": "54",
+    "season": "2023",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "playername": "Tuomas Saarela",
+    "player_id": "54",
+    "season": "2024",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Lari Posio",
+    "player_id": "55",
+    "season": "2022",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Lari Posio",
+    "player_id": "55",
+    "season": "2023",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Lari Posio",
+    "player_id": "55",
+    "season": "2024",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "playername": "Timo Liimatta",
+    "player_id": "56",
+    "season": "2022",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "playername": "Timo Liimatta",
+    "player_id": "56",
+    "season": "2023",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Timo Liimatta",
+    "player_id": "56",
+    "season": "2024",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Eino Kivel�",
+    "player_id": "57",
+    "season": "2022",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Konsta Harju",
+    "player_id": "58",
+    "season": "2022",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "playername": "Konsta Harju",
+    "player_id": "58",
+    "season": "2023",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "playername": "Konsta Harju",
+    "player_id": "58",
+    "season": "2024",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Konsta Harju",
+    "player_id": "58",
+    "season": "2025",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "playername": "Tuomas T�rmi",
+    "player_id": "59",
+    "season": "2022",
+    "goals": "5",
+    "assists": "7",
+    "points": "12"
+  },
+  {
+    "playername": "Matias Lindfors",
+    "player_id": "60",
+    "season": "2022",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Matias Lindfors",
+    "player_id": "60",
+    "season": "2023",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "playername": "Matias Lindfors",
+    "player_id": "60",
+    "season": "2024",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Vertti Hyypp�",
+    "player_id": "61",
+    "season": "2022",
+    "goals": "15",
+    "assists": "13",
+    "points": "28"
+  },
+  {
+    "playername": "Petteri Toivola",
+    "player_id": "62",
+    "season": "2022",
+    "goals": "12",
+    "assists": "19",
+    "points": "31"
+  },
+  {
+    "playername": "Petteri Toivola",
+    "player_id": "62",
+    "season": "2024",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "playername": "Petteri Toivola",
+    "player_id": "62",
+    "season": "2025",
+    "goals": "13",
+    "assists": "16",
+    "points": "29"
+  },
+  {
+    "playername": "Oskari Koivusaari",
+    "player_id": "63",
+    "season": "2023",
+    "goals": "24",
+    "assists": "9",
+    "points": "33"
+  },
+  {
+    "playername": "Oskari Koivusaari",
+    "player_id": "63",
+    "season": "2024",
+    "goals": "8",
+    "assists": "6",
+    "points": "14"
+  },
+  {
+    "playername": "Oskari Koivusaari",
+    "player_id": "63",
+    "season": "2025",
+    "goals": "7",
+    "assists": "0",
+    "points": "7"
+  },
+  {
+    "playername": "Eelis Tantarim�ki",
+    "player_id": "64",
+    "season": "2023",
+    "goals": "13",
+    "assists": "8",
+    "points": "21"
+  },
+  {
+    "playername": "Eelis Tantarim�ki",
+    "player_id": "64",
+    "season": "2024",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "playername": "Eelis Tantarim�ki",
+    "player_id": "64",
+    "season": "2025",
+    "goals": "8",
+    "assists": "4",
+    "points": "12"
+  },
+  {
+    "playername": "Jarno Manninen",
+    "player_id": "65",
+    "season": "2023",
+    "goals": "9",
+    "assists": "7",
+    "points": "16"
+  },
+  {
+    "playername": "Jarno Manninen",
+    "player_id": "65",
+    "season": "2024",
+    "goals": "24",
+    "assists": "5",
+    "points": "29"
+  },
+  {
+    "playername": "Emil Aho",
+    "player_id": "66",
+    "season": "2023",
+    "goals": "10",
+    "assists": "6",
+    "points": "16"
+  },
+  {
+    "playername": "Emil Aho",
+    "player_id": "66",
+    "season": "2024",
+    "goals": "11",
+    "assists": "15",
+    "points": "26"
+  },
+  {
+    "playername": "Emil Aho",
+    "player_id": "66",
+    "season": "2025",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "playername": "Niko Koivusaari",
+    "player_id": "67",
+    "season": "2023",
+    "goals": "6",
+    "assists": "10",
+    "points": "16"
+  },
+  {
+    "playername": "Niko Koivusaari",
+    "player_id": "67",
+    "season": "2024",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "playername": "Niko Koivusaari",
+    "player_id": "67",
+    "season": "2025",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "playername": "Joona Huusko",
+    "player_id": "68",
+    "season": "2023",
+    "goals": "6",
+    "assists": "8",
+    "points": "14"
+  },
+  {
+    "playername": "Joona Huusko",
+    "player_id": "68",
+    "season": "2024",
+    "goals": "7",
+    "assists": "6",
+    "points": "13"
+  },
+  {
+    "playername": "Joona Huusko",
+    "player_id": "68",
+    "season": "2025",
+    "goals": "11",
+    "assists": "11",
+    "points": "22"
+  },
+  {
+    "playername": "Joona Ilom�ki",
+    "player_id": "69",
+    "season": "2023",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "playername": "Joona Ilom�ki",
+    "player_id": "69",
+    "season": "2024",
+    "goals": "12",
+    "assists": "8",
+    "points": "20"
+  },
+  {
+    "playername": "Joona Ilom�ki",
+    "player_id": "69",
+    "season": "2025",
+    "goals": "6",
+    "assists": "5",
+    "points": "11"
+  },
+  {
+    "playername": "Ville Jylh�",
+    "player_id": "70",
+    "season": "2023",
+    "goals": "6",
+    "assists": "1",
+    "points": "7"
+  },
+  {
+    "playername": "Viljami Lahnalampi",
+    "player_id": "71",
+    "season": "2023",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "playername": "Viljami Lahnalampi",
+    "player_id": "71",
+    "season": "2024",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Viljami Lahnalampi",
+    "player_id": "71",
+    "season": "2025",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Christoffer Sundqvist",
+    "player_id": "72",
+    "season": "2023",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "playername": "Atte Oja",
+    "player_id": "73",
+    "season": "2024",
+    "goals": "31",
+    "assists": "13",
+    "points": "44"
+  },
+  {
+    "playername": "Niko Vuollet",
+    "player_id": "74",
+    "season": "2024",
+    "goals": "11",
+    "assists": "9",
+    "points": "20"
+  },
+  {
+    "playername": "Mikael Nyberg",
+    "player_id": "75",
+    "season": "2024",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "playername": "Sampo Laakkonen",
+    "player_id": "76",
+    "season": "2023",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Sampo Laakkonen",
+    "player_id": "76",
+    "season": "2024",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Sampo Laakkonen",
+    "player_id": "76",
+    "season": "2025",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Pyry Forsman",
+    "player_id": "77",
+    "season": "2025",
+    "goals": "8",
+    "assists": "8",
+    "points": "16"
+  },
+  {
+    "playername": "Oskari Murtom�ki",
+    "player_id": "78",
+    "season": "2025",
+    "goals": "12",
+    "assists": "6",
+    "points": "18"
+  },
+  {
+    "playername": "Janne Sepp�l�",
+    "player_id": "79",
+    "season": "2025",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "playername": "Erik Aho",
+    "player_id": "80",
+    "season": "2025",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "playername": "Markus Tuorila",
+    "player_id": "81",
+    "season": "2025",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Eemeli Sepp�nen",
+    "player_id": "82",
+    "season": "2025",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "playername": "Sami Puolamaa",
+    "player_id": "83",
+    "season": "2025",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Samuel Koski",
+    "player_id": "84",
+    "season": "2025",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "playername": "Janne Elo",
+    "player_id": "85",
+    "season": "2025",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  }
+]
