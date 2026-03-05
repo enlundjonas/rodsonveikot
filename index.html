@@ -13,10 +13,44 @@
 
 <body class="bg-gray-100 flex items-center justify-center min-h-screen px-4">
 
+    <div class="max-w-5xl mx-auto p-6">
+  <div class="flex justify-between items-center mb-4">
+    <h1 class="text-2xl font-bold">All-Time Player Totals</h1>
+    <input 
+      type="text"
+      placeholder="Search player..."
+      oninput="handleSearch(this.value)"
+      class="border px-3 py-2 rounded"
+    />
+  </div>
+
+  <div id="table-container"></div>
+
+  <div class="mt-6">
+    <button 
+      onclick="showTopSeasons()"
+      class="bg-blue-600 text-white px-4 py-2 rounded"
+    >
+      Parhaat yksilökaudet
+    </button>
+
+    <button 
+      onclick="renderAllTimeTable()"
+      class="ml-2 bg-gray-600 text-white px-4 py-2 rounded"
+    >
+      Back to All-Time
+    </button>
+  </div>
+</div>
+
+
+
+
+    <!-- 
     <div class="bg-white rounded-3xl shadow-xl w-full max-w-xl p-8">
 
 
-        <!-- HEADER -->
+         HEADER 
         <div class="flex items-center gap-4 mb-6">
             <img src="images/rövelogo-removebg-preview.ico" class="h-14" />
             <h1 class="text-2xl sm:text-3xl font-bold">All-Time Röve Stats</h1> 
@@ -30,18 +64,18 @@
         </button>
 
         </div>
-        <!-- SEARCH BAR -->
+        <!-- SEARCH BAR 
         <div class="relative mb-6">
             <input id="searchInput" type="text" placeholder="Search" oninput="searchPlayer(this.value)"
                 class="sm:text-lg w-full border border-gray-300 rounded-xl py-3 pl-12 pr-4 text-lg focus:outline-none focus:ring-2 focus:ring-black" />
             <span class="absolute left-4 top-3.5 text-gray-500 text-xl">🔍</span>
         </div>
 
-        <!-- TABLE -->
+        <!-- TABLE 
         <div id="main-table" class="mt-4"></div>
         <div id="table-container" class="mt-4"></div>
 
-    </div>
+    </div> -->
 
     <script src="index.js"></script>
 </body>
