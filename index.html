@@ -34,18 +34,24 @@
       Parhaat yksilökaudet
     </button>
 
-    <!-- Table wrapper--> 
-    <div id="table-wrapper" class="hidden sm:block"></div>
+    <!--Back button-->
+    <button onclick="goBack()" class="mb-4 px-3 py-1 bg-gray-200 rounded">
+      ← Takaisin
+    </button>
 
     <!-- Mobile sorting buttons -->
     <div id="mobile-sort" class="flex gap-2 mb-4 sm:hidden">
-      <button data-key="points" class="bg-gray-200 px-3 py-1 rounded flex-1">Points</button>
-      <button data-key="goals" class="bg-gray-200 px-3 py-1 rounded flex-1">Goals</button>
-      <button data-key="assists" class="bg-gray-200 px-3 py-1 rounded flex-1">Assists</button>
+      <button data-key="points" data-label="Pisteet" class="bg-gray-200 px-3 py-1 rounded flex-1">Pisteet</button>
+
+      <button data-key="goals" data-label="Maalit" class="bg-gray-200 px-3 py-1 rounded flex-1">Maalit</button>
+
+      <button data-key="assists" data-label="Syötöt" class="bg-gray-200 px-3 py-1 rounded flex-1">Syötöt</button>
     </div>
-    
-    <!--Cards wrapper-->
-    <div id="card-wrapper" class="block sm:hidden"></div>
+
+    <!-- Table wrapper-->
+    <div id="table-wrapper" class="hidden sm:block"></div>
+
+
   </div>
 
   <script src="index.js"></script>
