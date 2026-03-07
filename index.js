@@ -154,7 +154,7 @@ function renderTable(data) {
       <td class="px-2 py-2">
   ${isPlayerView ? p.season + '-' + (p.season + 1) : i + 1}
 </td>
-      <td class="px-2 py-3 ${state.mode === 'alltime' ? 'cursor-pointer hover:underline' : ''}"
+      <td class="px-2 py-2 truncate max-w-[140px] ${state.mode === 'alltime' ? 'cursor-pointer hover:underline' : ''}"
 ${state.mode === 'alltime' ? `onclick="showPlayerSeasons('${p.id}')"` : ''}>
 ${p.name}
 </td>
@@ -167,7 +167,7 @@ ${p.name}
   `).join('');
 
   tableWrapper.innerHTML = `
-    <div class="bg-white shadow rounded-lg p-6 overflow-x-auto">
+    <div class="bg-white shadow rounded-lg p-2 overflow-x-auto">
       <table class="min-w-full text-sm table-auto">
         <thead class="bg-gray-100">
           <tr>
