@@ -151,36 +151,36 @@ function renderTable(data) {
 
   const rows = data.map((p, i) => `
     <tr class="border-b hover:bg-gray-50">
-      <td class="px-4 py-2">
+      <td class="px-2 py-2">
   ${isPlayerView ? p.season + '-' + (p.season + 1) : i + 1}
 </td>
-      <td class="px-4 py-3 ${state.mode === 'alltime' ? 'cursor-pointer hover:underline' : ''}"
+      <td class="px-2 py-3 ${state.mode === 'alltime' ? 'cursor-pointer hover:underline' : ''}"
 ${state.mode === 'alltime' ? `onclick="showPlayerSeasons('${p.id}')"` : ''}>
 ${p.name}
 </td>
-      <td class="px-4 py-2 text-right">${p.goals}</td>
-      <td class="px-4 py-2 text-right">${p.assists}</td>
-      <td class="px-4 py-2 text-right font-semibold">${p.points}</td>
-      <td class="px-4 py-2 text-right hidden md:table-cell">${p.seasons ?? '-'}</td>
-      <td class="px-4 py-2 text-right hidden md:table-cell">${p.pointsPerSeason ? p.pointsPerSeason.toFixed(2) : '-'}</td>
+      <td class="px-2 py-2 text-right">${p.goals}</td>
+      <td class="px-2 py-2 text-right">${p.assists}</td>
+      <td class="px-2 py-2 text-right font-semibold">${p.points}</td>
+      <td class="px-2 py-2 text-right hidden md:table-cell">${p.seasons ?? '-'}</td>
+      <td class="px-2 py-2 text-right hidden md:table-cell">${p.pointsPerSeason ? p.pointsPerSeason.toFixed(2) : '-'}</td>
     </tr>
   `).join('');
 
   tableWrapper.innerHTML = `
     <div class="bg-white shadow rounded-lg p-6 overflow-x-auto">
-      <table class="min-w-full table-auto">
+      <table class="min-w-full text-sm table-auto">
         <thead class="bg-gray-100">
           <tr>
-            <th class="px-4 py-2 ${isPlayerView ? 'cursor-pointer' : ''}"
+            <th class="px-2 py-2 ${isPlayerView ? 'cursor-pointer' : ''}"
     ${isPlayerView ? `onclick="sortBy('season')"` : ''}>
   ${isPlayerView ? 'Kausi' : '#'}
 </th>
-            <th class="px-4 py-2 cursor-pointer" onclick="sortBy('name')">Pelaaja</th>
-            <th class="px-4 py-2 text-right cursor-pointer" onclick="sortBy('goals')">Maalit</th>
-            <th class="px-4 py-2 text-right cursor-pointer" onclick="sortBy('assists')">Syötöt</th>
-            <th class="px-4 py-2 text-right cursor-pointer" onclick="sortBy('points')">Pisteet</th>
-            <th class="px-4 py-2 text-right hidden md:table-cell" onclick="sortBy('seasons')">Kaudet</th>
-            <th class="px-4 py-2 text-right hidden md:table-cell" onclick="sortBy('pointsPerSeason')">P/kausi</th>
+            <th class="px-2 py-2 cursor-pointer" onclick="sortBy('name')">Pelaaja</th>
+            <th class="px-2 py-2 text-right cursor-pointer" onclick="sortBy('goals')">Maalit</th>
+            <th class="px-2 py-2 text-right cursor-pointer" onclick="sortBy('assists')">Syötöt</th>
+            <th class="px-2 py-2 text-right cursor-pointer" onclick="sortBy('points')">Pisteet</th>
+            <th class="px-2 py-2 text-right hidden md:table-cell" onclick="sortBy('seasons')">Kaudet</th>
+            <th class="px-2 py-2 text-right hidden md:table-cell" onclick="sortBy('pointsPerSeason')">P/kausi</th>
           </tr>
         </thead>
         <tbody>${rows}</tbody>
