@@ -152,7 +152,11 @@ function renderTable(data) {
   const rows = data.map((p, i) => `
     <tr class="border-b hover:bg-gray-50">
       <td class="px-2 py-2">
-  ${isPlayerView ? p.season + '-' + (p.season + 1) : i + 1}
+  ${state.mode === "topseasons"
+    ? p.season + '-' + (p.season + 1)
+    : isPlayerView
+        ? p.season + '-' + (p.season + 1)
+        : i + 1}
 </td>
       <td class="px-2 py-2 truncate max-w-[140px] ${state.mode === 'alltime' ? 'cursor-pointer hover:underline' : ''}"
 ${state.mode === 'alltime' ? `onclick="showPlayerSeasons('${p.id}')"` : ''}>
